@@ -1,7 +1,7 @@
 # promenade
 A one author theme for the ghost blogging plattform.
 
-## Preview
+## Demo
 This theme will be up on my website in a few days. Link to follow.
 
 ## Installation
