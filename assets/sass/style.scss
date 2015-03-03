@@ -93,6 +93,7 @@ img {
 	text-shadow: $titleSidebarShadow;
 }
 .sidebar_symbols {
+    white-space: nowrap;
     @media only screen and (min-width: $breakLarge) {
         margin: 0 0 1em 0;
     }

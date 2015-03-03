@@ -87,9 +87,11 @@ img {
   font-size: 1.75em;
   text-shadow: 0 0.05em 0.1em rgba(0, 0, 0, 0.3); }
 
-@media only screen and (min-width: 921px) {
-  .sidebar_symbols {
-    margin: 0 0 1em 0; } }
+.sidebar_symbols {
+  white-space: nowrap; }
+  @media only screen and (min-width: 921px) {
+    .sidebar_symbols {
+      margin: 0 0 1em 0; } }
 
 .sidebar_symbol {
   color: white;
