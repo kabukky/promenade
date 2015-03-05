@@ -212,6 +212,9 @@ img {
     border-bottom: 1px solid $colorBorderPostList;
     word-wrap: break-word;
 }
+.post_item_image {
+    max-width: 50%;
+}
 .post_item_excerpt {
     p {
         margin: 0;
