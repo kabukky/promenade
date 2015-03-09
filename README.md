@@ -1,4 +1,4 @@
-# promenade
+# Promenade
 A one author theme for the ghost blogging plattform.
 
 ## Demo
