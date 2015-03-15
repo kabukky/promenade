@@ -18,11 +18,29 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", "Myriad Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
   font-weight: 700;
-  text-rendering: optimizeLegibility; }
+  text-rendering: optimizeLegibility;
+  line-height: 1.15em; }
 
 img {
   border: 0;
   max-width: 100%; }
+
+pre {
+  padding: 10px;
+  border: 1px solid #e3edf3;
+  overflow: auto;
+  background: none repeat scroll 0% 0% #f7fafb; }
+  pre code {
+    padding: 0px;
+    background: none;
+    border: none; }
+
+code {
+  font-size: 0.85em;
+  padding: 1px 3px;
+  white-space: pre-wrap;
+  background: none repeat scroll 0% 0% #F7FAFB;
+  border: 1px solid #E3EDF3; }
 
 .sidebar {
   color: white; }

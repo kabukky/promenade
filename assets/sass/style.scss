@@ -20,11 +20,30 @@ body {
 h1, h2, h3, h4, h5, h6  {
     @include mixinHeader;
     text-rendering: optimizeLegibility;
+    line-height: 1.15em;
 }
 
 img {
     border: 0;
     max-width: 100%;
+}
+pre {
+    padding: 10px;
+    border: 1px solid $colorPreBorder;
+    overflow: auto;
+    background: none repeat scroll 0% 0% $colorPreBackground;
+    code {
+        padding: 0px;
+        background: none;
+        border: none;
+    }
+}
+code {
+    font-size: 0.85em;
+    padding: 1px 3px;
+    white-space: pre-wrap;
+    background: none repeat scroll 0% 0% #F7FAFB;
+    border: 1px solid #E3EDF3;
 }
 .sidebar {
 	color: $colorWhite;
