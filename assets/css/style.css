@@ -71,7 +71,7 @@ code {
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0 0 0;
-    border: 0.2em solid white; } }
+    border: 0.15em solid white; } }
 @media only screen and (max-width: 920px) {
   .sidebar_userimage {
     width: 3.46667em;
@@ -82,7 +82,7 @@ code {
     background-size: cover;
     background-position: center;
     margin: 0 auto 0;
-    border: 0.13333em solid white; } }
+    border: 0.1em solid white; } }
 
 @media only screen and (min-width: 921px) {
   .sidebar_inner {
