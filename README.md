@@ -1,5 +1,5 @@
 # Promenade
-A one author theme for the ghost blogging plattform.
+A one author theme for the Ghost blogging plattform.
 
 ## Demo
 This theme will be up on my website in a few days. Link to follow.
