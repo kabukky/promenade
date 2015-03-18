@@ -13,7 +13,8 @@ body {
   bottom: 0;
   height: 100%;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  word-wrap: break-word; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", "Myriad Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
@@ -24,6 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 img {
   border: 0;
   max-width: 100%; }
+
+a {
+  word-wrap: break-word; }
 
 pre {
   padding: 10px;
